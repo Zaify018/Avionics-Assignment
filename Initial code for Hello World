@@ -1,4 +1,4 @@
-#Code for Hello World in C-Programming
+//Code for Hello World in C-Programming
 #include <stdio.h>
 
 int main() {
