@@ -6,6 +6,9 @@ int main() {
     // Print the string "Hello, World!" followed by a newline character
     printf("Hello, World!\n");
 
+// Print the string "Welcome to Software Development for Embedded System lecture" followed by a newline character
+    printf("Welcome to Software Development for Embedded System lecture\n");
+
     // Return 0 to indicate that the program ended successfully
     return 0;
 }
